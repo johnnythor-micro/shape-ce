@@ -1,4 +1,5 @@
 # shapece — modern capillary-electrophoresis probing analysis
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johnnythor-micro/shape-ce/blob/main/notebooks/SHAPE_CE_Analysis.ipynb)
 
 **`shapece`** is a modern, notebook-based pipeline for analyzing capillary-electrophoresis (CE)
 nucleic-acid chemical-probing experiments — **SHAPE, DMS, CMCT, hydroxyl-radical, and enzymatic** —
